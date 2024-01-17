@@ -9,3 +9,6 @@ Download dos bancos de dados:
 AdventureWorks2017 - https://drive.google.com/file/d/1LCofjYj-pV1asBLrxtgPDsbqMFRefHW5/view
 
 Northwind - https://raw.githubusercontent.com/Microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
+
+Em outro repositório foi disponibilizado conteúdo para usuários do MySQL, uma vez que existem algumas diferenças de sintaxe.
+
